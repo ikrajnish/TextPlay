@@ -1,70 +1,54 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1> <p align="center"> <strong>  TextPlay </strong> </p> </h1> 
 
-## Available Scripts
 
-In the project directory, you can run:
+<h3 align="center">  <a href="https://646e85e31d3f4a2f08c8b59c--shimmering-croissant-eb4919.netlify.app/"> View Demo </a> </h3>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p> TextPlay is an innovative project that offers a convenient and user-friendly text conversion tool. This tool allows users to easily convert any given text into uppercase or lowercase, copy the text, and delete the entire input with just a single click using the "Clear Text" button.  </p> 
+<p> It aims to provide a simple and efficient solution for manipulating text without the need for complex software or extensive coding knowledge. </p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h2> Features </h2>
+<ul> 
 
-### `npm test`
+<li> Text Conversion (from Uppercase to Lowercase & vice-versa)  </li>
+  
+  <li>  Copy Text  </li>
+  <li> Clear Text  </li>
+  
+ <li>   Dark Mode and Light Mode feature  </li>
+</ul>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2> Tech Stack </h2>
 
-### `npm run build`
+<ul> 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <li> NodeJS </li>
+  
+  <li> ReactJS </li>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+</ul>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h2> Prerequisite </h2>
+<ul> 
 
-### `npm run eject`
+  <li> NodeJS & npm (comes with Node) </li>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+</ul>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Installation 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  1.  Clone this repository. 
+  2.  Navigate to the root directory and run npm install to install dependencies.  
+  
+  3.  Run npm run start to start the development server 
+  
+  4.  The application will start running on `http://localhost:3000` 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Deployment
 
-## Learn More
+You can use any hosting provider or platform to deploy this application. Some popular options include:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Netlify
+- Heroku
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
