@@ -1,0 +1,18 @@
+.textarea-container {
+    max-width: 800px;
+    margin: 0;
+    padding: 20px;
+}
+
+.textarea-title {
+    margin-bottom: 20px;
+}
+
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text-summary {
+    margin-top: 20px;
+}
