@@ -34,6 +34,7 @@ function App() {
       setMode("dark");
 
       document.body.style.backgroundColor = "rgb(8 49 68)";
+      
 
       showAlert("Dark Mode has been Enabled", "success");
 
